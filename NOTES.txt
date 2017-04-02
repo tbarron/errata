@@ -1,0 +1,5 @@
+
+# Can I put comments in the manifest?
+# How do I access the selection on the current page?
+# How do I interact with a backend database somewhere?
+
